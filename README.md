@@ -10,11 +10,13 @@
 [![Build + Publish](https://github.com/Requarks/wiki/actions/workflows/build.yml/badge.svg)](https://github.com/Requarks/wiki/actions/workflows/build.yml)
 [![Huntr](https://img.shields.io/badge/security%20bounty-disclose-brightgreen.svg?style=flat&logo=cachet&logoColor=white)](https://huntr.dev/bounties/disclose)
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/ngpixel?logo=github&color=ea4aaa)](https://github.com/users/NGPixel/sponsorship)
-[![Open Collective backers and sponsors](https://img.shields.io/opencollective/all/wikijs?label=backers&color=218bff&logo=opencollective&logoColor=white)](https://opencollective.com/wikijs)  
+[![Open Collective backers and sponsors](https://img.shields.io/opencollective/all/wikijs?label=backers&color=218bff&logo=opencollective&logoColor=white)](https://opencollective.com/wikijs)
+[![Subscribe to Newsletter](https://img.shields.io/badge/newsletter-subscribe-yellow.svg?style=flat&logo=mailchimp&logoColor=white)](https://blog.js.wiki/subscribe)  
 [![Chat on Slack](https://img.shields.io/badge/slack-requarks-CC2B5E.svg?style=flat&logo=slack)](https://wiki.requarks.io/slack)
-[![Twitter Follow](https://img.shields.io/badge/follow-%40requarks-blue.svg?style=flat&logo=twitter)](https://twitter.com/requarks)
+[![Follow on Twitter](https://img.shields.io/badge/twitter-%40requarks-blue.svg?style=flat&logo=twitter&logoColor=white)](https://twitter.com/requarks)
+[![Follow on Telegram](https://img.shields.io/badge/telegram-%40wiki__js-blue.svg?style=flat&logo=telegram)](https://t.me/wiki_js)
+[![Chat on Discord](https://img.shields.io/badge/discord-join-8D96F6.svg?style=flat&logo=discord&logoColor=white)](https://discord.gg/rcxt9QS2jd)
 [![Reddit](https://img.shields.io/badge/reddit-%2Fr%2Fwikijs-orange?logo=reddit&logoColor=white)](https://www.reddit.com/r/wikijs/)
-[![Subscribe to Newsletter](https://img.shields.io/badge/newsletter-subscribe-yellow.svg?style=flat&logo=mailchimp)](https://blog.js.wiki/subscribe)
 
 ##### A modern, lightweight and powerful wiki app built on NodeJS
 
@@ -25,7 +27,7 @@
 - [Requirements](https://docs.requarks.io/install/requirements)
 - [Installation](https://docs.requarks.io/install)
 - [Demo](https://docs.requarks.io/demo)
-- [Changelog](https://docs.requarks.io/releases)
+- [Changelog](https://github.com/requarks/wiki/releases)
 - [Feature Requests](https://feedback.js.wiki/wiki)
 - [Chat with us on Slack](https://wiki.requarks.io/slack)
 - [Translations](https://docs.requarks.io/dev/translations) *(We need your help!)*
@@ -39,7 +41,7 @@
 
 <div align="center">
 
-Wiki.js is an open source project that has been made possible due to the generous contributions by community [backers](https://wiki.js.org/about). If you are interested in supporting this project, please consider [becoming a sponsor](https://github.com/users/NGPixel/sponsorship), [becoming a patron](https://www.patreon.com/requarks), donating to our [OpenCollective](https://opencollective.com/wikijs), via [Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=FLV5X255Z9CJU&source=url) or via Ethereum (`0xe1d55c19ae86f6bcbfb17e7f06ace96bdbb22cb5`).
+Wiki.js is an open source project that has been made possible due to the generous contributions by community [backers](https://js.wiki/about). If you are interested in supporting this project, please consider [becoming a sponsor](https://github.com/users/NGPixel/sponsorship), [becoming a patron](https://www.patreon.com/requarks), donating to our [OpenCollective](https://opencollective.com/wikijs), via [Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=FLV5X255Z9CJU&source=url) or via Ethereum (`0xe1d55c19ae86f6bcbfb17e7f06ace96bdbb22cb5`).
   
   [![Become a Sponsor](https://img.shields.io/badge/donate-github-ea4aaa.svg?style=popout&logo=github)](https://github.com/users/NGPixel/sponsorship)
   [![Become a Patron](https://img.shields.io/badge/donate-patreon-orange.svg?style=popout&logo=patreon)](https://www.patreon.com/requarks)
@@ -141,6 +143,7 @@ Support this project by becoming a sponsor. Your name will show up in the Contri
 - Brian Douglass ([@bhdouglass](https://github.com/bhdouglass))
 - Bryon Vandiver ([@asterick](https://github.com/asterick))
 - Cameron Steele ([@ATechAdventurer](https://github.com/ATechAdventurer))
+- Charlie Schliesser ([@charlie-s](https://github.com/charlie-s))
 - Cloud Data Hosting LLC ([@CloudDataHostingLLC](https://github.com/CloudDataHostingLLC))
 - CrazyMarvin ([@CrazyMarvin](https://github.com/CrazyMarvin))
 - David Christian Holin ([@SirGibihm](https://github.com/SirGibihm))
@@ -159,17 +162,20 @@ Support this project by becoming a sponsor. Your name will show up in the Contri
 - Loki ([@binaryloki](https://github.com/binaryloki))
 - MaFarine ([@MaFarine](https://github.com/MaFarine))
 - Marcilio Leite Neto ([@marclneto](https://github.com/marclneto))
+- Mattias Johnson ([@mattiasJohnson](https://github.com/mattiasJohnson))
+- Max Ricketts-Uy ([@MaxRickettsUy](https://github.com/MaxRickettsUy))
         
 </td><td>
 <img width="441" height="1" />
         
-- Mattias Johnson ([@mattiasJohnson](https://github.com/mattiasJohnson))
-- Max Ricketts-Uy ([@MaxRickettsUy](https://github.com/MaxRickettsUy))
+- Mickael Asseline ([@PAPAMICA](https://github.com/PAPAMICA))
 - Mitchell Rowton ([@mrowton](https://github.com/mrowton))
 - M. Scott Ford ([@mscottford](https://github.com/mscottford))
 - Nick Halase ([@nhalase](https://github.com/nhalase))
+- Nick Price ([@DominoTree](https://github.com/DominoTree))
 - Nina Reynolds ([@cutecycle](https://github.com/cutecycle))
 - Noel Cower ([@nilium](https://github.com/nilium))
+- Oleksandr Koltsov ([@crambo](https://github.com/crambo))
 - Philipp Schmitt ([@pschmitt](https://github.com/pschmitt))
 - Robert Lanzke ([@winkelement](https://github.com/winkelement))
 - Sam Martin ([@ABitMoreDepth](https://github.com/ABitMoreDepth))
@@ -363,6 +369,7 @@ Thank you to all our patrons! 🙏 [[Become a patron](https://www.patreon.com/re
 - hong
 - Hope
 - Ian
+- Imari Childress
   
 </td><td>
 <img width="441" height="1" />
@@ -375,6 +382,7 @@ Thank you to all our patrons! 🙏 [[Become a patron](https://www.patreon.com/re
 - Ludgeir Ibanez
 - Mark Mansur
 - Matt Gedigian
+- Nate Figz
 - Patryk
 - Philipp Schürch
 - Tracey Duffy
@@ -401,9 +409,6 @@ This project exists thanks to all the people who contribute. [[Contribute]](http
 
 <h2 align="center">Special Thanks</h2>
 
-![Algolia](https://js.wiki/legacy/logo_algolia.png)  
-[Algolia](https://www.algolia.com/) for providing access to their incredible search engine.
-
 ![Browserstack](https://js.wiki/legacy/logo_browserstack.png)  
 [Browserstack](https://www.browserstack.com/) for providing access to their great cross-browser testing tools.
 
@@ -411,16 +416,16 @@ This project exists thanks to all the people who contribute. [[Contribute]](http
 [Cloudflare](https://www.cloudflare.com/) for providing their great CDN, SSL and advanced networking services.
 
 ![DigitalOcean](https://js.wiki/legacy/logo_digitalocean.png)  
-[DigitalOcean](https://m.do.co/c/5f7445bfa4d0) for providing hosting of the Wiki.js documentation site.
+[DigitalOcean](https://m.do.co/c/5f7445bfa4d0) for providing hosting of the Wiki.js documentation site and APIs.
 
 ![Icons8](https://static.requarks.io/logo/icons8-text-h40.png)  
-[Icons8](https://icons8.com/) for providing beautiful icon sets.
+[Icons8](https://icons8.com/) for providing access to their beautiful icon sets.
 
 ![Lokalise](https://static.requarks.io/logo/lokalise-text-h40.png)  
 [Lokalise](https://lokalise.com/) for providing access to their great localization tool.
 
 ![Netlify](https://js.wiki/legacy/logo_netlify.png)  
-[Netlify](https://www.netlify.com) for providing hosting for landings and blog websites.
+[Netlify](https://www.netlify.com) for providing hosting for our website.
 
 ![ngrok](https://static.requarks.io/logo/ngrok-h40.png)  
 [ngrok](https://ngrok.com) for providing access to their great HTTP tunneling services.
